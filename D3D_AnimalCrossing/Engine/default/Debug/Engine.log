@@ -1,0 +1,109 @@
+﻿FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\bin\Shader_Collider.cso
+F:\??��??���� ??D3D_AnimalCrossing (3)\Engine\bin\ShaderFiles\Shader_Deferred.hlsl(173,3-130): warning X3206: implicit truncation of vector type
+F:\??��??���� ??D3D_AnimalCrossing (3)\Engine\bin\ShaderFiles\Shader_Deferred.hlsl(230,3-129): warning X3206: implicit truncation of vector type
+F:\??��??���� ??D3D_AnimalCrossing (3)\Engine\bin\ShaderFiles\Shader_Deferred.hlsl(278,3-34): warning X3206: implicit truncation of vector type
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\bin\Shader_Deferred.cso
+  Animation.cpp
+  Base.cpp
+  Camera.cpp
+  Collider.cpp
+  Component.cpp
+  Component_Manager.cpp
+  HierarchyLoader.cpp
+  Input_Device.cpp
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\HierarchyLoader.cpp(212,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Collider.cpp(206,78): warning C4244: '=': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Collider.cpp(210,78): warning C4244: '=': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Collider.cpp(214,23): warning C4244: '=': 'double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameInstance.cpp
+  GameObject.cpp
+  Graphic_Device.cpp
+  Layer.cpp
+  Level.cpp
+  Level_Manager.cpp
+  Light.cpp
+  Light_Manager.cpp
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Light.cpp(75,105): warning C4244: '인수': 'DWORD'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Light.cpp(75,89): warning C4244: '인수': 'DWORD'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mesh.cpp
+  Mesh_Dynamic.cpp
+  Mesh_Static.cpp
+  Object_Manager.cpp
+  Picking.cpp
+  PipeLine.cpp
+  Renderer.cpp
+  Shader.cpp
+  Target.cpp
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Picking.cpp(79,101): warning C4805: '==': 연산에 'bool' 형식과 'BOOL' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Target_Manager.cpp
+  Texture.cpp
+  Timer.cpp
+  Timer_Manager.cpp
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Renderer.cpp(77,105): warning C4244: '인수': 'DWORD'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Renderer.cpp(77,89): warning C4244: '인수': 'DWORD'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Transform.cpp
+  VIBuffer.cpp
+  VIBuffer_Cube.cpp
+  VIBuffer_Point.cpp
+F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\private\Transform.cpp(333,43): warning C4244: '인수': 'Engine::_double'에서 'Engine::_float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  VIBuffer_Rect.cpp
+  VIBuffer_Rect_Viewport.cpp
+  VIBuffer_Terrain.cpp
+     ..\bin\Engine.lib 라이브러리 및 ..\bin\Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> F:\이력서 진행 중\D3D_AnimalCrossing (3)\Engine\default\..\bin\Engine.dll
+  ..\public\Animation.h
+  ..\public\Base.h
+  ..\public\Camera.h
+  ..\public\Collider.h
+  ..\public\Component.h
+  ..\public\Component_Manager.h
+  ..\public\Engine_Defines.h
+  ..\public\Engine_Function.h
+  ..\public\Engine_Functor.h
+  ..\public\Engine_Macro.h
+  ..\public\Engine_Struct.h
+  ..\public\Engine_Typedef.h
+  ..\public\GameInstance.h
+  ..\public\GameObject.h
+  ..\public\Graphic_Device.h
+  ..\public\HierarchyLoader.h
+  ..\public\Input_Device.h
+  ..\public\Layer.h
+  ..\public\Level.h
+  ..\public\Level_Manager.h
+  ..\public\Light.h
+  ..\public\Light_Manager.h
+  ..\public\Mesh.h
+  ..\public\Mesh_Dynamic.h
+  ..\public\Mesh_Static.h
+  ..\public\Object_Manager.h
+  ..\public\Picking.h
+  ..\public\PipeLine.h
+  ..\public\Renderer.h
+  ..\public\Shader.h
+  ..\public\Target.h
+  ..\public\Target_Manager.h
+  ..\public\Texture.h
+  ..\public\Timer.h
+  ..\public\Timer_Manager.h
+  ..\public\Transform.h
+  ..\public\VIBuffer.h
+  ..\public\VIBuffer_Cube.h
+  ..\public\VIBuffer_Point.h
+  ..\public\VIBuffer_Rect.h
+  ..\public\VIBuffer_Rect_Viewport.h
+  ..\public\VIBuffer_Terrain.h
+  42개 파일이 복사되었습니다.
+  ..\bin\Engine.lib
+  1개 파일이 복사되었습니다.
+  ..\bin\Engine.dll
+  1개 파일이 복사되었습니다.
+  ..\bin\Engine.dll
+  1개 파일이 복사되었습니다.
+  ..\bin\ShaderFiles\Shader_Collider.hlsl
+  ..\bin\ShaderFiles\Shader_Deferred.hlsl
+  2개 파일이 복사되었습니다.

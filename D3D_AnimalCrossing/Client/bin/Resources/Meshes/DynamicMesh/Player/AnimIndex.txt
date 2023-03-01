@@ -1,0 +1,11 @@
+0	Idle
+1	WalkF
+2	DashF
+3	NetIdle
+4	NetWalk
+5	NetDash
+6	NetSwing
+7	NetGroundStop
+8	Net_Get
+9	GetKeep
+10	PutAway 

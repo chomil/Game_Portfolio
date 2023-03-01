@@ -1,0 +1,118 @@
+﻿  pch.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\GameObject.h(15,18): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\GameObject.h(16,18): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  API_CrazyArcade.cpp
+  Bitmap_Manager.cpp
+  Block.cpp
+  Bubble.cpp
+  BubblePop.cpp
+  Button.cpp
+  GameObject.cpp
+  GameObject_Manager.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(53,75): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(53,63): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(95,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(94,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(115,25): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(115,21): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(134,97): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(134,85): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(164,16): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(167,18): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(170,16): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(173,17): warning C4244:  '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(182,46): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(181,40): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(38,30): warning C4244:  '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(195,41): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(194,15): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(73,67): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(73,55): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(79,33): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(216,58): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(79,21): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(216,46): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(83,47): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(83,31): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(87,72): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(87,56): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(283,110): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(96,47): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(283,89): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(96,31): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(100,72): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(100,56): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(110,56): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(110,35): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(305,99): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Block.cpp(305,87): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(114,81): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(114,60): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(124,56): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(124,35): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(128,81): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(128,60): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(151,97): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(151,85): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(169,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(168,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(233,110): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(233,89): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(270,27): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Key_Manager.cpp
+  MainApp.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(270,23): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Item.cpp(91,40): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+  Mouse.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Item.cpp(90,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyBitmap.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Item.cpp(112,25): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Item.cpp(112,21): warning C4244:  '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  Scene_Manager.cpp
+  Scene_Room.cpp
+  Scene_Stage.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\MainApp.cpp(24,12): warning C4244:  '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(72,31): warning C4244:  '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(361,86): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(361,74): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(367,86): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(367,63): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(414,97): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(414,85): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(434,15): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(433,15): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(450,46): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(450,20): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(449,48): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(448,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(487,26): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(486,16): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(45,55): warning C4244:  '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(45,36): warning C4244:  '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(541,107): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(55,55): warning C4244:  '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(541,86): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(55,36): warning C4244:  '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(568,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(624,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(681,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tile_Manager.cpp
+  UI.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Player.cpp(736,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Tile.cpp(36,75): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Tile.cpp(36,59): warning C4244:  '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(56,50): warning C4244:  '=': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(57,50): warning C4244:  '=': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(114,46): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(115,46): warning C4244:  '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  49 of 480 functions (10.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  API_CrazyArcade.vcxproj -> D:\jusin\API\API_CrazyArcade\x64\Release\API_CrazyArcade.exe

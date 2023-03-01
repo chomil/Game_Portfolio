@@ -1,0 +1,21 @@
+﻿  ComPlayer.cpp
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(72,32): warning C4244:  '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(392,30): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(413,30): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(434,30): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(455,30): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(520,98): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(520,86): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(542,15): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(541,15): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(558,46): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(558,20): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(557,48): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(556,14): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(613,107): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(613,86): warning C4244:  '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(640,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(696,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(753,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\jusin\API\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(808,39): warning C4244:  '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  API_CrazyArcade.vcxproj -> D:\jusin\API\API_CrazyArcade\Debug\API_CrazyArcade.exe

@@ -1,0 +1,1115 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "열거형 형식 'Engine::CGameObject::OBJECT_TYPE'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/GameObject.h"
+                },
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 3,
+                  "endLine": 39,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Get_ObjectType@CGameObject@Engine@@QAE?AW4OBJECT_TYPE@12@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "열거형 형식 'Engine::CTransform::STATE'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/Transform.h"
+                },
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 10,
+                  "endLine": 34,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Get_State@CTransform@Engine@@QBE?AUD3DXVECTOR3@@W4STATE@12@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "열거형 형식 '_D3DTRANSFORMSTATETYPE'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/PipeLine.h"
+                },
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 10,
+                  "endLine": 19,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Get_Transform@CPipeLine@Engine@@QAE?AUD3DXMATRIX@@W4_D3DTRANSFORMSTATETYPE@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "열거형 형식 'Engine::CInput_Device::DIM'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/Input_Device.h"
+                },
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 8,
+                  "endLine": 38,
+                  "endColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Get_DIMouseKeyState@CInput_Device@Engine@@QAECW4DIM@12@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "열거형 형식 'Engine::CInput_Device::DIMM'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/Input_Device.h"
+                },
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 8,
+                  "endLine": 43,
+                  "endColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Get_DIMouseMoveState@CInput_Device@Engine@@QAEJW4DIMM@12@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26812",
+          "message": {
+            "text": "열거형 형식 'Client::CPlayer::ANIM_STATE'이(가) 범위가 지정되지 않았습니다. 'enum'(Enum.3) 대신 'enum class'를 사용하세요."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/public/Player.h"
+                },
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 3,
+                  "endLine": 42,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Get_AnimState@CPlayer@Client@@QAE?AW4ANIM_STATE@12@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_szText' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 15,
+                  "endLine": 8,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@PAUIDirect3DDevice9@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_szText"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fSizeX' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 15,
+                  "endLine": 8,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@PAUIDirect3DDevice9@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fSizeX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fY' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 15,
+                  "endLine": 8,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@PAUIDirect3DDevice9@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fX' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 15,
+                  "endLine": 8,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@PAUIDirect3DDevice9@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fSizeY' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 15,
+                  "endLine": 8,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@PAUIDirect3DDevice9@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fSizeY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_szText' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 15,
+                  "endLine": 14,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@ABV01@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_szText"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fSizeX' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 15,
+                  "endLine": 14,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@ABV01@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fSizeX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fY' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 15,
+                  "endLine": 14,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@ABV01@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fY"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fX' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 15,
+                  "endLine": 14,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@ABV01@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fX"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'Client::CTextBalloon::m_fSizeY' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 15,
+                  "endLine": 14,
+                  "endColumn": 15
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0CTextBalloon@Client@@AAE@ABV01@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "Client::CTextBalloon::m_fSizeY"
+          }
+        },
+        {
+          "ruleId": "C6031",
+          "message": {
+            "text": "반환 값이 무시되었습니다. 'lstrcpynW'."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+                },
+                "region": {
+                  "startLine": 143,
+                  "startColumn": 4,
+                  "endLine": 143,
+                  "endColumn": 31
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?Render@CTextBalloon@Client@@UAEJXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00CBD1C0 -allChunksReserved -il C:\\Users\\KYH\\AppData\\Local\\Temp\\_CL_1091c7f8ast -typedil -f ..\\private\\TextBalloon.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930133 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -I C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Client\\Default\\ -I C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Client\\public\\ -I C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Reference\\Inc\\ -I C:\\Program Files (x86)\\Microsoft DirectX SDK (June 2010)\\Include -nologo -W 3 -diagnostics:column -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -D_WINDOWS -D_ENGINE_DEBUG -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -Zc:wchar_t -Zc:forScope -std:c++17 -Yustdafx.h -FpDebug\\Client.pch -FoDebug\\TextBalloon.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Client\\default -analyze:rulesetdirectory ;C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -MPdiagMutex 00000000000001E8",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/GameObject.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "0f9a984401d5e3dcc9c99fcd9bdf4846"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/Transform.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "92c7bcf6376342fedc0e0dbefc7fc30a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/PipeLine.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "c17cf0e89e34c8c9a0e0dcf335a26b7f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/Input_Device.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "e7a0bc9412752da2d0a3440b6d9486a9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Reference/Inc/Collider.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "602a5eed4e32d54b0e1c4196ffadc87f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/private/flower.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "f692702817705225a543b8805f112147"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/default/stdafx.h"
+          },
+          "hashes": {
+            "md5": "7c1f5e4a34f7d237b5bffed00c07ddc5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/default/targetver.h"
+          },
+          "hashes": {
+            "md5": "0ae9b4f0099f0b0bb5b2d60c6ccdc003"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod.h"
+          },
+          "hashes": {
+            "md5": "c1f70e5718d92a4c89e3dfa1ba1c9277"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod_codec.h"
+          },
+          "hashes": {
+            "md5": "45b35e3d28b003e76b60c989c0f7ed30"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod_dsp.h"
+          },
+          "hashes": {
+            "md5": "1f8f8cc887af7ca861f432b2973b827f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod_memoryinfo.h"
+          },
+          "hashes": {
+            "md5": "3b69c6a74bb600f9cd7fce5487fc881b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/sound_manager.h"
+          },
+          "hashes": {
+            "md5": "d38c06b2e6d936943598807aad8bd37b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/client_defines.h"
+          },
+          "hashes": {
+            "md5": "e2b6d1aeb9475e612a1807eaa56b03b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/base.h"
+          },
+          "hashes": {
+            "md5": "d2f20f0d081f150bb62bc5096f58c2c4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_defines.h"
+          },
+          "hashes": {
+            "md5": "1edd344f99e1b382227f0874b85f4d5e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9.h"
+          },
+          "hashes": {
+            "md5": "05da735f3db2fe7524da8988539ced99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/rpcsal.h"
+          },
+          "hashes": {
+            "md5": "fec1415e1273d783e79090571a83934e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9types.h"
+          },
+          "hashes": {
+            "md5": "8e48f8449e75f4f6035595516c31ec58"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9caps.h"
+          },
+          "hashes": {
+            "md5": "2cf8710501d6c3aed8ebf7042df8bb21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9.h"
+          },
+          "hashes": {
+            "md5": "d296189c1d761aa0e1c2daf3b8b592b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9math.h"
+          },
+          "hashes": {
+            "md5": "deec5e74fb66ffca6cb49f5e225983bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9math.inl"
+          },
+          "hashes": {
+            "md5": "ca4ba28fa34ec97fd50fc5b184687363"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9core.h"
+          },
+          "hashes": {
+            "md5": "39a4bd98e0e9d22ba9d51dac286662b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9xof.h"
+          },
+          "hashes": {
+            "md5": "b338de250ff8747b0fac4a0f567a7d3c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9mesh.h"
+          },
+          "hashes": {
+            "md5": "2de6f4320e7eb78f536e29bf27bc3445"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9shader.h"
+          },
+          "hashes": {
+            "md5": "fc510418305749392ea05d614300b074"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9effect.h"
+          },
+          "hashes": {
+            "md5": "d23677a843bbc1588ee1da62b56a5ccc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9tex.h"
+          },
+          "hashes": {
+            "md5": "cbf7dc6a3522b1509ade6278f8ff00c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9shape.h"
+          },
+          "hashes": {
+            "md5": "de5f515b74b8472c5283d840c8327143"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9anim.h"
+          },
+          "hashes": {
+            "md5": "3c2501eaff09346d6c30086d8eb2c6c9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/dinput.h"
+          },
+          "hashes": {
+            "md5": "0dc2c3292f622f1ff6952a163ed336cc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_function.h"
+          },
+          "hashes": {
+            "md5": "6c50d89f50449e3dbee2e2f9a78eca20"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_typedef.h"
+          },
+          "hashes": {
+            "md5": "07f8dbb8c3d871cdb75314c15315b591"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_macro.h"
+          },
+          "hashes": {
+            "md5": "7527f3b60d26c858b0d533764c9ea13a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_functor.h"
+          },
+          "hashes": {
+            "md5": "04d5ba114fef72bd559b217bdd3c77ef"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_struct.h"
+          },
+          "hashes": {
+            "md5": "83a0ed897012a154d2ea095647c0ee97"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/flower.h"
+          },
+          "hashes": {
+            "md5": "3f0e4fc39cb876557578db8e32bd181d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/gameinstance.h"
+          },
+          "hashes": {
+            "md5": "2763e7b63473ae924737ebeedcf08ca0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/graphic_device.h"
+          },
+          "hashes": {
+            "md5": "07d1bc67d574e75cfe10096f8fd846cc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/level_manager.h"
+          },
+          "hashes": {
+            "md5": "f09803ab421625b231eece4bb6218477"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/object_manager.h"
+          },
+          "hashes": {
+            "md5": "0057925fc8a09076c2da7e4ae9f9f461"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/component_manager.h"
+          },
+          "hashes": {
+            "md5": "13476a7d8019d4a3185acc26c14a6597"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/shader.h"
+          },
+          "hashes": {
+            "md5": "7e752d3f986008530026f79e15e37579"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/component.h"
+          },
+          "hashes": {
+            "md5": "735aacfdd01fef525bbfceeb9c031552"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/texture.h"
+          },
+          "hashes": {
+            "md5": "73585c0261c19cc1043aba60ac842f1f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/picking.h"
+          },
+          "hashes": {
+            "md5": "bc3529ebdd54d0df39de3dc260e18dea"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/renderer.h"
+          },
+          "hashes": {
+            "md5": "62d678e09000335da15c83d2cf0f1e95"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/mesh_static.h"
+          },
+          "hashes": {
+            "md5": "1996355ab5eabf91629b0051f96a4f12"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/mesh.h"
+          },
+          "hashes": {
+            "md5": "ed8fd55420aebd7f1f6869867cd0f8fb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/mesh_dynamic.h"
+          },
+          "hashes": {
+            "md5": "3c1b4768b31cd43430f926763dc07672"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/vibuffer_rect.h"
+          },
+          "hashes": {
+            "md5": "fce92792f52722125f76d2c53d6745df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/vibuffer.h"
+          },
+          "hashes": {
+            "md5": "f41e3a2190c766a54c6768c02448df58"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/vibuffer_cube.h"
+          },
+          "hashes": {
+            "md5": "238657073664bd4bb17b3e4d97414a3c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/vibuffer_point.h"
+          },
+          "hashes": {
+            "md5": "4743aa0dcb67f99c2af7847d4dcfd1af"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/vibuffer_terrain.h"
+          },
+          "hashes": {
+            "md5": "3d930eae095e95c0a22087e284e5a714"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/timer_manager.h"
+          },
+          "hashes": {
+            "md5": "e3a8c17f5e85e0ff9510493735167ae4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/timer.h"
+          },
+          "hashes": {
+            "md5": "68cc86b6977136ed1fae7f993c6130bc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/light_manager.h"
+          },
+          "hashes": {
+            "md5": "ac3556a76fbc53c50ec3e9a51a39ef6f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/private/level_logo.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "16887025a8b8b12885738a68c4a29734"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/level_logo.h"
+          },
+          "hashes": {
+            "md5": "4f21c4865ae4d530bbd7d8135aad86d9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/level.h"
+          },
+          "hashes": {
+            "md5": "a3a1cba539494f7c951c53564d3f2f14"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/background.h"
+          },
+          "hashes": {
+            "md5": "96fd85a3763d14356608da77abe55432"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/level_loading.h"
+          },
+          "hashes": {
+            "md5": "d72ebf2e8d9f3356a88364de261d548e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/Player_Hair.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "08295ea60f3542996c6b5d0f3e58744e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/player_hair.h"
+          },
+          "hashes": {
+            "md5": "f08252cba298e4a3e2468c047491b2b2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/public/Player.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "c00018af8f2b70d6754d1a1be1ed031c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/KYH/Desktop/D3D_AnimalCrossing/Client/private/TextBalloon.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "30d785c82e14d65806fd4984f167e71e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/textballoon.h"
+          },
+          "hashes": {
+            "md5": "1d4f89059db86383d4537e9a6f989c2a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/camera_free.h"
+          },
+          "hashes": {
+            "md5": "d0a7b36e1b9db50678ff41caa25c39fa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/camera.h"
+          },
+          "hashes": {
+            "md5": "428486559b7e5006710cf56c2de8d8d3"
+          }
+        }
+      ]
+    }
+  ]
+}

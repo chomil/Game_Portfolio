@@ -1,0 +1,1281 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXFLOAT16::value' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 5,
+                  "endLine": 59,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXFLOAT16@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXFLOAT16::value"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR2::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 5,
+                  "endLine": 91,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR2::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR2::x' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 5,
+                  "endLine": 91,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR2@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR2::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::w' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::z' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::x' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 240,
+                  "startColumn": 5,
+                  "endLine": 240,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::w' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::z' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::x' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 429,
+                  "startColumn": 5,
+                  "endLine": 429,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::x"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::b' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::a' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::c' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::c"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::d' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 475,
+                  "startColumn": 5,
+                  "endLine": 475,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::d"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::a' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::r' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::r"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::b' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::g' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+                },
+                "region": {
+                  "startLine": 516,
+                  "startColumn": 5,
+                  "endLine": 516,
+                  "endColumn": 5
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::g"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXFLOAT16::value' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 14,
+                  "endLine": 26,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXFLOAT16@@QAE@M@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXFLOAT16::value"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR2::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 14,
+                  "endLine": 77,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR2@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR2::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 517,
+                  "startColumn": 14,
+                  "endLine": 517,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::w' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 517,
+                  "startColumn": 14,
+                  "endLine": 517,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXVECTOR4::z' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 517,
+                  "startColumn": 14,
+                  "endLine": 517,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXVECTOR4@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXVECTOR4::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::w' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 17,
+                  "endLine": 1068,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::w"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::y' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 17,
+                  "endLine": 1068,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::y"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXQUATERNION::z' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1068,
+                  "startColumn": 17,
+                  "endLine": 1068,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXQUATERNION@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXQUATERNION::z"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::b' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1241,
+                  "startColumn": 12,
+                  "endLine": 1241,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::c' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1241,
+                  "startColumn": 12,
+                  "endLine": 1241,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::c"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXPLANE::d' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1241,
+                  "startColumn": 12,
+                  "endLine": 1241,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXPLANE@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXPLANE::d"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::a' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1376,
+                  "startColumn": 12,
+                  "endLine": 1376,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::a"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::b' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1376,
+                  "startColumn": 12,
+                  "endLine": 1376,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::b"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "'D3DXCOLOR::g' 변수가 초기화되지 않았습니다. 항상 멤버 변수를 초기화하세요(type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+                },
+                "region": {
+                  "startLine": 1376,
+                  "startColumn": 12,
+                  "endLine": 1376,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0D3DXCOLOR@@QAE@PBUD3DXFLOAT16@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "D3DXCOLOR::g"
+          }
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00CBD1C0 -il C:\\Users\\KYH\\AppData\\Local\\Temp\\_CL_f5e1cb69ast -typedil -f stdafx.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930133 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -I C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Client\\Default\\ -I C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Client\\public\\ -I C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Reference\\Inc\\ -I C:\\Program Files (x86)\\Microsoft DirectX SDK (June 2010)\\Include -nologo -W 3 -diagnostics:column -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -D_WINDOWS -D_ENGINE_DEBUG -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -Zc:wchar_t -Zc:forScope -std:c++17 -Ycstdafx.h -FpDebug\\Client.pch -FoDebug\\stdafx.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory C:\\Users\\KYH\\Desktop\\D3D_AnimalCrossing\\Client\\default -analyze:rulesetdirectory ;C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.h"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "deec5e74fb66ffca6cb49f5e225983bb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Program Files (x86)/Microsoft DirectX SDK (June 2010)/Include/d3dx9math.inl"
+          },
+          "roles": [
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "ca4ba28fa34ec97fd50fc5b184687363"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/default/stdafx.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "da03e38a6f3e109154acc75a55da1858"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/default/stdafx.h"
+          },
+          "hashes": {
+            "md5": "7c1f5e4a34f7d237b5bffed00c07ddc5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/default/targetver.h"
+          },
+          "hashes": {
+            "md5": "0ae9b4f0099f0b0bb5b2d60c6ccdc003"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod.h"
+          },
+          "hashes": {
+            "md5": "c1f70e5718d92a4c89e3dfa1ba1c9277"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod_codec.h"
+          },
+          "hashes": {
+            "md5": "45b35e3d28b003e76b60c989c0f7ed30"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod_dsp.h"
+          },
+          "hashes": {
+            "md5": "1f8f8cc887af7ca861f432b2973b827f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/fmod_memoryinfo.h"
+          },
+          "hashes": {
+            "md5": "3b69c6a74bb600f9cd7fce5487fc881b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/sound_manager.h"
+          },
+          "hashes": {
+            "md5": "d38c06b2e6d936943598807aad8bd37b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/client/public/client_defines.h"
+          },
+          "hashes": {
+            "md5": "e2b6d1aeb9475e612a1807eaa56b03b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/base.h"
+          },
+          "hashes": {
+            "md5": "d2f20f0d081f150bb62bc5096f58c2c4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_defines.h"
+          },
+          "hashes": {
+            "md5": "1edd344f99e1b382227f0874b85f4d5e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9.h"
+          },
+          "hashes": {
+            "md5": "05da735f3db2fe7524da8988539ced99"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/rpcsal.h"
+          },
+          "hashes": {
+            "md5": "fec1415e1273d783e79090571a83934e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9types.h"
+          },
+          "hashes": {
+            "md5": "8e48f8449e75f4f6035595516c31ec58"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3d9caps.h"
+          },
+          "hashes": {
+            "md5": "2cf8710501d6c3aed8ebf7042df8bb21"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9.h"
+          },
+          "hashes": {
+            "md5": "d296189c1d761aa0e1c2daf3b8b592b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9core.h"
+          },
+          "hashes": {
+            "md5": "39a4bd98e0e9d22ba9d51dac286662b9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9xof.h"
+          },
+          "hashes": {
+            "md5": "b338de250ff8747b0fac4a0f567a7d3c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9mesh.h"
+          },
+          "hashes": {
+            "md5": "2de6f4320e7eb78f536e29bf27bc3445"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9shader.h"
+          },
+          "hashes": {
+            "md5": "fc510418305749392ea05d614300b074"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9effect.h"
+          },
+          "hashes": {
+            "md5": "d23677a843bbc1588ee1da62b56a5ccc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9tex.h"
+          },
+          "hashes": {
+            "md5": "cbf7dc6a3522b1509ade6278f8ff00c5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9shape.h"
+          },
+          "hashes": {
+            "md5": "de5f515b74b8472c5283d840c8327143"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/d3dx9anim.h"
+          },
+          "hashes": {
+            "md5": "3c2501eaff09346d6c30086d8eb2c6c9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/program files (x86)/microsoft directx sdk (june 2010)/include/dinput.h"
+          },
+          "hashes": {
+            "md5": "0dc2c3292f622f1ff6952a163ed336cc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_function.h"
+          },
+          "hashes": {
+            "md5": "6c50d89f50449e3dbee2e2f9a78eca20"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_typedef.h"
+          },
+          "hashes": {
+            "md5": "07f8dbb8c3d871cdb75314c15315b591"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_macro.h"
+          },
+          "hashes": {
+            "md5": "7527f3b60d26c858b0d533764c9ea13a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_functor.h"
+          },
+          "hashes": {
+            "md5": "04d5ba114fef72bd559b217bdd3c77ef"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/kyh/desktop/d3d_animalcrossing/reference/inc/engine_struct.h"
+          },
+          "hashes": {
+            "md5": "83a0ed897012a154d2ea095647c0ee97"
+          }
+        }
+      ]
+    }
+  ]
+}

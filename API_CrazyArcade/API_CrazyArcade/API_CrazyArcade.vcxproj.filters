@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="99.Default">
+      <UniqueIdentifier>{80a411c3-8212-4f39-b0f0-ab6ed92ae452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98.Headers">
+      <UniqueIdentifier>{5bc1c960-1601-41cd-acf4-ae54242cecc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainApp">
+      <UniqueIdentifier>{b13aae57-7499-426d-90cc-9984031bbc6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Manager">
+      <UniqueIdentifier>{eea870a8-3b9c-46ee-ac14-58fd82af7886}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Bitmap">
+      <UniqueIdentifier>{5e17aaed-3a69-4b61-96b2-38a994fe42ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.Bitmap\Bitmap_Manager">
+      <UniqueIdentifier>{e82fac62-62c2-424b-a8ee-da8f416488ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Scene">
+      <UniqueIdentifier>{302007e2-854a-45af-9c2c-55c2c51cf27a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Scene\Manager">
+      <UniqueIdentifier>{28d25baf-6255-40b1-a711-699199038c29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Scene\Stage">
+      <UniqueIdentifier>{4832452d-211f-427c-bb2b-d014e1235e36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Scene\Monster">
+      <UniqueIdentifier>{346a7c85-5288-4330-a6cb-b87fae70fc8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject">
+      <UniqueIdentifier>{269d2835-2646-4f1c-89ba-d935c4a1ada7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\GameObjectManager">
+      <UniqueIdentifier>{1f717103-4cf8-45d0-a060-f0925e9be7e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Player">
+      <UniqueIdentifier>{4cc1417a-a7be-4374-9456-de4e70e95be0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Mouse">
+      <UniqueIdentifier>{5122ae03-2f21-4dbc-be4c-79d48e444eb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Tile">
+      <UniqueIdentifier>{1a2203b1-3335-4330-bf0d-d3c19ed754d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Tile\Tile_Manager">
+      <UniqueIdentifier>{51c51ffa-2fac-4125-99ec-ba28612a0fa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\UI">
+      <UniqueIdentifier>{3ea104d8-8277-41c8-8115-69270b6905c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Item">
+      <UniqueIdentifier>{ddcb1596-c615-4c2e-8778-ed49271c94b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Monster">
+      <UniqueIdentifier>{fd92bf3f-bf88-42cb-926a-56d5d6b7c6fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Block">
+      <UniqueIdentifier>{ef2c9ca7-5533-4dd5-8649-4bfca09da21a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Bubble">
+      <UniqueIdentifier>{69b4b407-6890-45a2-af1a-36758d47a918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Button">
+      <UniqueIdentifier>{28fd0729-8e0c-457e-b42b-4e3a88da300a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="API_CrazyArcade.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="MainApp.h">
+      <Filter>00.MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>98.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Extern.h">
+      <Filter>98.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>98.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>98.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Function.h">
+      <Filter>98.Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Key_Manager.h">
+      <Filter>01.Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject_Manager.h">
+      <Filter>02.GameObject\GameObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>02.GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBitmap.h">
+      <Filter>03.Bitmap</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>02.GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap_Manager.h">
+      <Filter>03.Bitmap\Bitmap_Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>04.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Manager.h">
+      <Filter>04.Scene\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Stage.h">
+      <Filter>04.Scene\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>02.GameObject\Mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>02.GameObject\Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile_Manager.h">
+      <Filter>02.GameObject\Tile\Tile_Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>02.GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>02.GameObject\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Bubble.h">
+      <Filter>02.GameObject\Bubble</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>02.GameObject\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>02.GameObject\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="BubblePop.h">
+      <Filter>02.GameObject\Bubble</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Room.h">
+      <Filter>04.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>02.GameObject\Button</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Boss.h">
+      <Filter>04.Scene\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Monster1.h">
+      <Filter>04.Scene\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Monster2.h">
+      <Filter>04.Scene\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Login.h">
+      <Filter>04.Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="ComPlayer.h">
+      <Filter>02.GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="PathFind.h">
+      <Filter>02.GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound_Manager.h">
+      <Filter>01.Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene_Test.h">
+      <Filter>04.Scene\Stage</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="API_CrazyArcade.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>99.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="MainApp.cpp">
+      <Filter>00.MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="Key_Manager.cpp">
+      <Filter>01.Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject_Manager.cpp">
+      <Filter>02.GameObject\GameObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>02.GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="MyBitmap.cpp">
+      <Filter>03.Bitmap</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>02.GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap_Manager.cpp">
+      <Filter>03.Bitmap\Bitmap_Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>04.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Manager.cpp">
+      <Filter>04.Scene\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Stage.cpp">
+      <Filter>04.Scene\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>02.GameObject\Mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>02.GameObject\Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile_Manager.cpp">
+      <Filter>02.GameObject\Tile\Tile_Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>02.GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>02.GameObject\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Bubble.cpp">
+      <Filter>02.GameObject\Bubble</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>02.GameObject\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>02.GameObject\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="BubblePop.cpp">
+      <Filter>02.GameObject\Bubble</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Room.cpp">
+      <Filter>04.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>02.GameObject\Button</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Boss.cpp">
+      <Filter>04.Scene\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Monster1.cpp">
+      <Filter>04.Scene\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Monster2.cpp">
+      <Filter>04.Scene\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Login.cpp">
+      <Filter>04.Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ComPlayer.cpp">
+      <Filter>02.GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFind.cpp">
+      <Filter>02.GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound_Manager.cpp">
+      <Filter>01.Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene_Test.cpp">
+      <Filter>04.Scene\Stage</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>99.Default</Filter>
+    </Image>
+    <Image Include="API_CrazyArcade.ico">
+      <Filter>99.Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="API_CrazyArcade.rc">
+      <Filter>99.Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

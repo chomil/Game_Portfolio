@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Engine\bin\Engine.dll</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Engine\bin\Shader_Collider.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Engine\bin\Shader_Deferred.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

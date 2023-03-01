@@ -1,0 +1,213 @@
+﻿  pch.cpp
+  API_CrazyArcade.cpp
+  Bitmap_Manager.cpp
+  Block.cpp
+  Bubble.cpp
+  BubblePop.cpp
+  Button.cpp
+  ComPlayer.cpp
+  GameObject.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(38,30): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(79,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(79,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(56,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(85,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(56,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(85,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(72,32): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(90,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(90,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(96,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(96,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(106,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(105,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(105,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(105,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(185,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameObject_Manager.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(126,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(185,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\BubblePop.cpp(126,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(109,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(109,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(230,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(119,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(230,85): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(119,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(260,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(123,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(263,18): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(123,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(266,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(133,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(269,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(133,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(278,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(277,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(137,81): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(311,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(137,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(310,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(160,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(332,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(160,85): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(332,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(392,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(403,110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(413,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(403,89): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(434,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(455,30): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(427,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(178,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Block.cpp(427,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(177,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(242,110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Key_Manager.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(242,89): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(520,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(520,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(281,27): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(542,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Bubble.cpp(281,23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(541,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(558,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(558,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(557,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(556,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(613,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(613,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(641,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Item.cpp(106,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MainApp.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Item.cpp(105,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(697,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Item.cpp(127,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Item.cpp(127,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(754,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\ComPlayer.cpp(809,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+  Mouse.cpp
+  MyBitmap.cpp
+  PathFind.cpp
+  Player.cpp
+  Scene.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\MainApp.cpp(24,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Boss.cpp
+  Scene_Login.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(411,53): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(412,53): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(481,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(481,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(482,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(482,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(505,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(505,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(516,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(516,63): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(527,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Manager.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(527,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(538,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(538,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(653,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(71,31): warning C4244: '=': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Monster1.cpp
+  Scene_Monster2.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(652,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(665,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(665,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(664,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(663,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(680,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(679,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(690,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(689,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(701,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(448,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(700,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(448,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(454,86): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(454,63): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(749,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(749,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(772,38): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(523,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(843,38): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(523,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(545,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(914,38): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(544,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Boss.cpp(115,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(561,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Boss.cpp(115,37): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(985,38): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(561,20): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Boss.cpp(129,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(560,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Boss.cpp(129,37): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(559,14): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(598,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(597,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(657,107): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(657,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster1.cpp(96,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster1.cpp(96,37): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster1.cpp(110,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Room.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(685,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster1.cpp(110,37): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster2.cpp(95,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(741,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster2.cpp(95,37): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster2.cpp(109,56): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Monster2.cpp(109,37): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(798,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(1242,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Monster.cpp(1242,21): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Player.cpp(853,39): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene_Stage.cpp
+  Scene_Test.cpp
+  Sound_Manager.cpp
+  Tile.cpp
+  Tile_Manager.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Room.cpp(32,31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Room.cpp(86,23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Test.cpp(113,57): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Test.cpp(113,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Test.cpp(127,57): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Test.cpp(127,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Test.cpp(145,55): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Test.cpp(145,36): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  UI.cpp
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(63,57): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(63,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(77,57): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile.cpp(73,75): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile.cpp(73,59): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(77,38): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(95,55): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Scene_Stage.cpp(95,36): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile.cpp(95,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile.cpp(95,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(57,50): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(58,50): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(136,46): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(137,46): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(164,39): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Gratia\Desktop\이력서 진행 중\API_CrazyArcade\API_CrazyArcade\Tile_Manager.cpp(180,39): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+LINK : fatal error C1001: 내부 컴파일러 오류가 발생했습니다.
+  (컴파일러 파일 'd:\agent\_work\5\s\src\vctools\Compiler\Utc\src\p2\main.c', 줄 182)
+   이 문제를 해결하려면 위 목록에 나오는 위치 부근의 프로그램을 단순화하거나 변경하세요.
+  가능한 경우 https://developercommunity.visualstudio.com에서 재현해 주세요. 
+  자세한 내용을 보려면 Visual C++ [도움말] 메뉴에서 [기술 지원] 명령을 
+   선택하거나 기술 지원 도움말 파일을 참조하세요.
+    link!InvokeCompilerPass()+0x340fe
+    link!InvokeCompilerPass()+0x25b6c
+    link!InvokeCompilerPass()+0x25a71
+    link!InvokeCompilerPass()+0x32ecf
+  
+  
+LINK : fatal error LNK1000: Internal error during IMAGE::BuildImage

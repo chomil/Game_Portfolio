@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Client.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Shader_Mesh.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Shader_Player.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Shader_Point.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Shader_Rect.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Shader_Sky.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\KYH\Desktop\D3D_AnimalCrossing (3)\Client\bin\Shader_Terrain.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

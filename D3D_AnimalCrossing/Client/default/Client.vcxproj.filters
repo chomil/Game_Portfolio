@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="98.Default">
+      <UniqueIdentifier>{1bf1074f-6cec-46ed-9765-0234cd6556c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00.MainApp">
+      <UniqueIdentifier>{c646a26f-399a-46c7-b040-5d4787b0d4ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99.Defines">
+      <UniqueIdentifier>{46e57af7-6e36-454e-90a5-5e9ada052ecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Level">
+      <UniqueIdentifier>{41d2151f-3470-4ad9-a266-528d6f28fc5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject">
+      <UniqueIdentifier>{da121434-5807-4959-b200-dcb27fdf1a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\BackGround">
+      <UniqueIdentifier>{1cf98f56-e0a6-4e19-a742-9f18c541050a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Level\Loading">
+      <UniqueIdentifier>{62c7d1b7-7547-42fe-925f-35878a41fba1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Level\Loading\Loader">
+      <UniqueIdentifier>{80667eb2-9baf-4223-94c2-275c7087007e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Level\Logo">
+      <UniqueIdentifier>{7d4608b2-01de-4656-8dd7-ff41ca77adf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.Level\GamePlay">
+      <UniqueIdentifier>{6726868e-e411-47f6-bd65-9874907a484e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Player">
+      <UniqueIdentifier>{471e3f65-60f3-4d19-89e9-0a9c913b25bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Camera">
+      <UniqueIdentifier>{eda7641f-1db8-48a7-bedb-6a8e5c74542d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Terrain">
+      <UniqueIdentifier>{8800aa5e-4ee0-418f-88ad-67335b06d000}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Sky">
+      <UniqueIdentifier>{1a9dcf46-37ce-4734-9d38-310f6ed9e5a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\UI">
+      <UniqueIdentifier>{4927d09f-1425-466d-9757-1d425ef27a17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Effect">
+      <UniqueIdentifier>{c2f56c4b-f415-4b9f-96dd-f21f42e60422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97.ShaderFiles">
+      <UniqueIdentifier>{02f6918a-fa36-4f32-aac2-f5f7a394c9c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Tool">
+      <UniqueIdentifier>{21c99a30-2de9-4619-9c39-7beb45df2ae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Inventory">
+      <UniqueIdentifier>{5e590916-bd57-4a27-ab36-97ca28e21e20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Building">
+      <UniqueIdentifier>{2250bad2-6268-4e74-832a-0002cd9bfa11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Plant">
+      <UniqueIdentifier>{d164a013-483f-43d5-88dc-46226659b034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Plant\Tree">
+      <UniqueIdentifier>{1499b982-064f-4112-9a51-64df1d4459d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Plant\Weed">
+      <UniqueIdentifier>{68fd1217-b51e-4d87-8412-cbe041ca1979}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Insect">
+      <UniqueIdentifier>{1369ddda-3ebe-4931-8e5f-95438c04b265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\TextBalloon">
+      <UniqueIdentifier>{46edc743-7fe7-42e2-981f-fc654aa6e63c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Plant\Flower">
+      <UniqueIdentifier>{0f7959cd-fa20-45a9-a46d-75ea855a33e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Quest">
+      <UniqueIdentifier>{81cafeea-5ecf-4af0-a9e8-b7b27504badf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03.StorableVal">
+      <UniqueIdentifier>{2c6f2b3a-2b52-4c45-864c-a6c5480f646e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Plant\Peach">
+      <UniqueIdentifier>{bfe7548c-e2ca-4fdf-a3f3-5622d9a233b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="96.Sound">
+      <UniqueIdentifier>{ff1d152a-6705-4f79-b30e-c9d0084f1e99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.GameObject\Transition">
+      <UniqueIdentifier>{46e8d896-35cf-40a9-9fcb-076f212e598d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98.Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\MainApp.h">
+      <Filter>00.MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Client_Defines.h">
+      <Filter>99.Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\BackGround.h">
+      <Filter>02.GameObject\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Loading.h">
+      <Filter>01.Level\Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Level_Loading.h">
+      <Filter>01.Level\Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Level_Logo.h">
+      <Filter>01.Level\Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Level_GamePlay.h">
+      <Filter>01.Level\GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Player.h">
+      <Filter>02.GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Camera_Free.h">
+      <Filter>02.GameObject\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Terrain.h">
+      <Filter>02.GameObject\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Sky.h">
+      <Filter>02.GameObject\Sky</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\UI.h">
+      <Filter>02.GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Effect.h">
+      <Filter>02.GameObject\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Player_Hair.h">
+      <Filter>02.GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Tree.h">
+      <Filter>02.GameObject\Plant\Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Inventory.h">
+      <Filter>02.GameObject\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\NookTent.h">
+      <Filter>02.GameObject\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\NoticeBoard.h">
+      <Filter>02.GameObject\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Weed.h">
+      <Filter>02.GameObject\Plant\Weed</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Insect.h">
+      <Filter>02.GameObject\Insect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Tool_Net.h">
+      <Filter>02.GameObject\Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\TextBalloon.h">
+      <Filter>02.GameObject\TextBalloon</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Item.h">
+      <Filter>02.GameObject\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Flower.h">
+      <Filter>02.GameObject\Plant\Flower</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Quest.h">
+      <Filter>02.GameObject\Quest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\StorableVar.h">
+      <Filter>03.StorableVal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Utility.h">
+      <Filter>03.StorableVal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Peach.h">
+      <Filter>02.GameObject\Plant\Peach</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Sound_Manager.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod.hpp">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod_codec.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod_dsp.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod_errors.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod_memoryinfo.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\fmod_output.h">
+      <Filter>96.Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="..\public\Transition.h">
+      <Filter>02.GameObject\Transition</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>98.Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\MainApp.cpp">
+      <Filter>00.MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\BackGround.cpp">
+      <Filter>02.GameObject\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Loading.cpp">
+      <Filter>01.Level\Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Level_Loading.cpp">
+      <Filter>01.Level\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Level_Logo.cpp">
+      <Filter>01.Level\Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Level_GamePlay.cpp">
+      <Filter>01.Level\GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Player.cpp">
+      <Filter>02.GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Camera_Free.cpp">
+      <Filter>02.GameObject\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Terrain.cpp">
+      <Filter>02.GameObject\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Sky.cpp">
+      <Filter>02.GameObject\Sky</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\UI.cpp">
+      <Filter>02.GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Effect.cpp">
+      <Filter>02.GameObject\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Player_Hair.cpp">
+      <Filter>02.GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Tree.cpp">
+      <Filter>02.GameObject\Plant\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Inventory.cpp">
+      <Filter>02.GameObject\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\NookTent.cpp">
+      <Filter>02.GameObject\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\NoticeBoard.cpp">
+      <Filter>02.GameObject\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Weed.cpp">
+      <Filter>02.GameObject\Plant\Weed</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Insect.cpp">
+      <Filter>02.GameObject\Insect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Tool_Net.cpp">
+      <Filter>02.GameObject\Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\TextBalloon.cpp">
+      <Filter>02.GameObject\TextBalloon</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Item.cpp">
+      <Filter>02.GameObject\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Flower.cpp">
+      <Filter>02.GameObject\Plant\Flower</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Quest.cpp">
+      <Filter>02.GameObject\Quest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Peach.cpp">
+      <Filter>02.GameObject\Plant\Peach</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Sound_Manager.cpp">
+      <Filter>96.Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="..\private\Transition.cpp">
+      <Filter>02.GameObject\Transition</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>98.Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\bin\ShaderFiles\Shader_Rect.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\bin\ShaderFiles\Shader_Terrain.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\bin\ShaderFiles\Shader_Mesh.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\bin\ShaderFiles\Shader_Player.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\bin\ShaderFiles\Shader_Sky.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\bin\ShaderFiles\Shader_Point.hlsl">
+      <Filter>97.ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+    <Image Include="Client.ico">
+      <Filter>98.Default</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
